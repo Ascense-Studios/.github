@@ -18,8 +18,9 @@ Aqui podras encontrar el source code aqui:
 
 - [Markut](https://github.com/markut-dev) (Current project leader).
 - [asenceStudio](https://github.com/asenceStudio) (CEO & Founder).
+- [AxanVdz](https://github.com/AxanVdz) (Contributor).
 
-# Unete al Servidor de Discord para la Comunidad:
+# Unete al Servidor de Discord de la Comunidad:
 [https://discord.ascense.net/](https://discord.ascense.net/)
 
 Si tienes alguna pregunta acerca del proyecto no dudes en contactarnos!, [E-mail 📧](mailto:ascense.studio@gmail.com).
