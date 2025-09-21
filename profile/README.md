@@ -13,9 +13,9 @@ Aqui podras encontrar el source code aqui:
 
 [Ascense Project](https://github.com/Ascense-Studios/Ascense-Project)
 
-# Colaboradores
+# Colaboradores:
 
-## Desarrolladores
+## Desarrolladores:
 
 - [Markut](https://github.com/markut-dev) (Current project leader).
 - [asenceStudio](https://github.com/asenceStudio) (CEO & Founder).
