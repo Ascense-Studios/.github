@@ -10,7 +10,8 @@ Ascense es una plataforma pensada para apoyar a estudiantes y trabajadores que b
 
 # Source Code
 Aqui podras encontrar el source code aqui:
-[Ascense Project](https://github.com/Ascense-Studios)
+
+[Ascense Project](https://github.com/Ascense-Studios/Ascense-Project)
 
 # Colaboradores
 
